@@ -1,0 +1,23 @@
+html{background-color: #70DBDB;
+	height: 100%;}
+	body{background-color: beige;
+		width: 75%;
+		min-height: 100%;
+		margin:0 auto;
+		padding: 0 20px;}
+		nav{color: black;
+			background-color: white;
+			border-radius: 10px;
+			padding: 20px;
+			width: 50%;
+			margin:0 auto;
+			text-align: center;}
+		nav a{color: black;
+			text-decoration: none;
+		padding: 5px;}
+		nav a:hover{background-color: yellow;
+		color: green;
+		border-radius: 5px;
+		 }
+			img{border-color: white;}		
+		

@@ -1,0 +1,19 @@
+body{background-color: #F0FFFF;}
+H1{font-family: verdana,tahoma,sans-serif;
+	font-size: 50px;
+	text-shadow:5px 5px 2px gray;
+}
+p{padding: 20px;
+	width: 75%;
+	background-color: white;
+	border-radius: 10px;
+}
+p:first-letter{font-size: 30px;
+}
+li:first-letter{color: blue;
+}
+a{text-decoration: none;
+}
+a:hover{background-color: blue;
+	color: yellow;
+}

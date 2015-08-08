@@ -1,0 +1,25 @@
+body{background-color: #4B0082;
+margin-left: 40px;
+margin-top: 10px;}
+
+
+h1{font-size: 50px;
+color: white;
+font-family: tahoma;
+}
+li{color: white;
+    list-style-type: square;
+
+}
+h2{font-size: 20px;
+color:#F0FFFF;}
+h3{color: #FFD700;}
+h4{font-style: 30px;
+color: #FF1493;
+font-family: tahoma;
+}
+p{color:#FFD700;}
+a{color: white;
+}
+a:hover{color: black;
+background-color:yellow;}
